@@ -1,0 +1,2465 @@
+{
+  "heroes": [
+    {
+      "id": "1",
+      "district": "Belagavi",
+      "name_en": "Sangolli Rayanna",
+      "name_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+      "image_url": "ic_rayanna",
+      "story_en": [
+        "Sangolli Rayanna was a brave warrior in the Kittur army.",
+        "He fought against the British East India Company until his last breath.",
+        "He is remembered for his courage and loyalty to queen Kittur Chennamma.",
+        "Today, his statues inspire many young children in Karnataka.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Sangolli Rayanna was a brave warrior in the Kittur army.",
+        "He fought against the British East India Company until his last breath.",
+        "He is remembered for his courage and loyalty to queen Kittur Chennamma.",
+        "Today, his statues inspire many young children in Karnataka.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಕಿತ್ತೂರು ಸೇನೆಯ ಕೆಚ್ಚೆದೆಯ ವೀರನಾಗಿದ್ದನು.",
+        "ಅವನು ತನ್ನ ಕೊನೆಯ ಉಸಿರಿನವರೆಗೆ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದನು.",
+        "ರಾಣಿ ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮನ ಮೇಲಿನ ಅವನ ನಿಷ್ಠೆ ಮತ್ತು ಧೈರ್ಯ ಸ್ಮರಣೀಯ.",
+        "ಇಂದು, ಅವರ ಪ್ರತಿಮೆಗಳು ಕರ್ನಾಟಕದ ಅನೇಕ ಚಿಕ್ಕ ಮಕ್ಕಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತವೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಕಿತ್ತೂರು ಸೇನೆಯ ಕೆಚ್ಚೆದೆಯ ವೀರನಾಗಿದ್ದನು.",
+        "ಅವನು ತನ್ನ ಕೊನೆಯ ಉಸಿರಿನವರೆಗೆ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದನು.",
+        "ರಾಣಿ ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮನ ಮೇಲಿನ ಅವನ ನಿಷ್ಠೆ ಮತ್ತು ಧೈರ್ಯ ಸ್ಮರಣೀಯ.",
+        "ಇಂದು, ಅವರ ಪ್ರತಿಮೆಗಳು ಕರ್ನಾಟಕದ ಅನೇಕ ಚಿಕ್ಕ ಮಕ್ಕಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತವೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Sangolli Rayanna famously associated with?",
+          "question_kn": "Sangolli Rayanna ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Belagavi",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Belagavi",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Sangolli Rayanna most remembered for?",
+          "question_kn": "Sangolli Rayanna ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "district": "Chitradurga",
+      "name_en": "Onake Obavva",
+      "name_kn": "ಒನಕೆ ಓಬವ್ವ",
+      "image_url": "ic_obavva",
+      "story_en": [
+        "Onake Obavva was a courageous woman who lived in Chitradurga.",
+        "When enemy soldiers tried to sneak into the fort through a small hole, she noticed them.",
+        "Using just a pestle (Onake), she fought them off one by one.",
+        "Her bravery saved the fort that day.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Onake Obavva was a courageous woman who lived in Chitradurga.",
+        "When enemy soldiers tried to sneak into the fort through a small hole, she noticed them.",
+        "Using just a pestle (Onake), she fought them off one by one.",
+        "Her bravery saved the fort that day.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಒನಕೆ ಓಬವ್ವ ಚಿತ್ರದುರ್ಗದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಧೈರ್ಯಶಾಲಿ ಮಹಿಳೆ.",
+        "ಶತ್ರು ಸೈನಿಕರು ಸಣ್ಣ ರಂಧ್ರದ ಮೂಲಕ ಕೋಟೆಯೊಳಗೆ ನುಸುಳಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ಅವಳು ಗಮನಿಸಿದಳು.",
+        "ಕೇವಲ ಒನಕೆ (Onake) ಬಳಸಿ, ಅವಳು ಅವರೊಡನೆ ಏಕಾಂಗಿಯಾಗಿ ಹೋರಾಡಿದಳು.",
+        "ಅವಳ ಧೈರ್ಯ ಆ ದಿನ ಕೋಟೆಯನ್ನು ಉಳಿಸಿತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಒನಕೆ ಓಬವ್ವ ಚಿತ್ರದುರ್ಗದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಧೈರ್ಯಶಾಲಿ ಮಹಿಳೆ.",
+        "ಶತ್ರು ಸೈನಿಕರು ಸಣ್ಣ ರಂಧ್ರದ ಮೂಲಕ ಕೋಟೆಯೊಳಗೆ ನುಸುಳಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ಅವಳು ಗಮನಿಸಿದಳು.",
+        "ಕೇವಲ ಒನಕೆ (Onake) ಬಳಸಿ, ಅವಳು ಅವರೊಡನೆ ಏಕಾಂಗಿಯಾಗಿ ಹೋರಾಡಿದಳು.",
+        "ಅವಳ ಧೈರ್ಯ ಆ ದಿನ ಕೋಟೆಯನ್ನು ಉಳಿಸಿತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Onake Obavva famously associated with?",
+          "question_kn": "Onake Obavva ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Chitradurga",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Chitradurga",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Onake Obavva most remembered for?",
+          "question_kn": "Onake Obavva ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "district": "Bengaluru Urban",
+      "name_en": "Kempegowda",
+      "name_kn": "ಕೆಂಪೇಗೌಡ",
+      "image_url": "ic_kempegowda",
+      "story_en": [
+        "Nadaprabhu Kempegowda was a chieftain under the Vijayanagara Empire.",
+        "He founded the beautiful city of Bengaluru in 1537.",
+        "He built many lakes, temples, and markets to help the people.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Nadaprabhu Kempegowda was a chieftain under the Vijayanagara Empire.",
+        "He founded the beautiful city of Bengaluru in 1537.",
+        "He built many lakes, temples, and markets to help the people.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಒಬ್ಬ ಪಾಳೆಯಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ೧೫೩೭ ರಲ್ಲಿ ಸುಂದರವಾದ ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದರು.",
+        "ಜನರಿಗೆ ಸಹಾಯ ಮಾಡಲು ಅವರು ಅನೇಕ ಕೆರೆಗಳು, ದೇವಾಲಯಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಒಬ್ಬ ಪಾಳೆಯಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ೧೫೩೭ ರಲ್ಲಿ ಸುಂದರವಾದ ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದರು.",
+        "ಜನರಿಗೆ ಸಹಾಯ ಮಾಡಲು ಅವರು ಅನೇಕ ಕೆರೆಗಳು, ದೇವಾಲಯಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Kempegowda famously associated with?",
+          "question_kn": "Kempegowda ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Bengaluru Urban",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Bengaluru Urban",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Kempegowda most remembered for?",
+          "question_kn": "Kempegowda ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "district": "Dakshina Kannada",
+      "name_en": "Rani Abbakka Chowta",
+      "name_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ",
+      "image_url": "hero_abbakka",
+      "story_en": [
+        "Rani Abbakka Chowta was the brave queen of Ullal in Dakshina Kannada.",
+        "She fiercely fought the Portuguese who tried to capture the spice trade.",
+        "Known as the 'Abhaya Rani' (The Fearless Queen), she defeated their navy multiple times.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Rani Abbakka Chowta was the brave queen of Ullal in Dakshina Kannada.",
+        "She fiercely fought the Portuguese who tried to capture the spice trade.",
+        "Known as the 'Abhaya Rani' (The Fearless Queen), she defeated their navy multiple times.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ ದಕ್ಷಿಣ ಕನ್ನಡದ ಉಳ್ಳಾಲದ ವೀರ ರಾಣಿ.",
+        "ಮಸಾಲೆ ವ್ಯಾಪಾರವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿದ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಅವಳು ತೀವ್ರವಾಗಿ ಹೋರಾಡಿದಳು.",
+        "'ಅಭಯ ರಾಣಿ' (ನಿರ್ಭೀತ ರಾಣಿ) ಎಂದು ಕರೆಯಲ್ಪಡುವ ಅವಳು ಅವರ ನೌಕಾಪಡೆಯನ್ನು ಅನೇಕ ಬಾರಿ ಸೋಲಿಸಿದಳು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ ದಕ್ಷಿಣ ಕನ್ನಡದ ಉಳ್ಳಾಲದ ವೀರ ರಾಣಿ.",
+        "ಮಸಾಲೆ ವ್ಯಾಪಾರವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿದ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಅವಳು ತೀವ್ರವಾಗಿ ಹೋರಾಡಿದಳು.",
+        "'ಅಭಯ ರಾಣಿ' (ನಿರ್ಭೀತ ರಾಣಿ) ಎಂದು ಕರೆಯಲ್ಪಡುವ ಅವಳು ಅವರ ನೌಕಾಪಡೆಯನ್ನು ಅನೇಕ ಬಾರಿ ಸೋಲಿಸಿದಳು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Rani Abbakka Chowta famously associated with?",
+          "question_kn": "Rani Abbakka Chowta ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Dakshina Kannada",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Dakshina Kannada",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Rani Abbakka Chowta most remembered for?",
+          "question_kn": "Rani Abbakka Chowta ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "district": "Chikkaballapur",
+      "name_en": "Sir M. Visvesvaraya",
+      "name_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "image_url": "hero_visvesvaraya",
+      "story_en": [
+        "Sir M. Visvesvaraya was a brilliant engineer and statesman born in Muddenahalli.",
+        "He built the famous KRS Dam in Mysuru and designed flood protection systems.",
+        "His birthday is celebrated as Engineer's Day in India because of his amazing work.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Sir M. Visvesvaraya was a brilliant engineer and statesman born in Muddenahalli.",
+        "He built the famous KRS Dam in Mysuru and designed flood protection systems.",
+        "His birthday is celebrated as Engineer's Day in India because of his amazing work.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದ ಅದ್ಭುತ ಎಂಜಿನಿಯರ್ ಮತ್ತು ಮುತ್ಸದ್ದಿಯಾಗಿದ್ದರು.",
+        "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಪ್ರಸಿದ್ಧ ಕೆಆರ್‌ಎಸ್ ಅಣೆಕಟ್ಟನ್ನು ನಿರ್ಮಿಸಿದರು ಮತ್ತು ಪ್ರವಾಹ ಸಂರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿದರು.",
+        "ಅವರ ಅದ್ಭುತ ಕಾರ್ಯದಿಂದಾಗಿ ಅವರ ಜನ್ಮದಿನವನ್ನು ಭಾರತದಲ್ಲಿ ಇಂಜಿನಿಯರ್ಸ್ ದಿನವನ್ನಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದ ಅದ್ಭುತ ಎಂಜಿನಿಯರ್ ಮತ್ತು ಮುತ್ಸದ್ದಿಯಾಗಿದ್ದರು.",
+        "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಪ್ರಸಿದ್ಧ ಕೆಆರ್‌ಎಸ್ ಅಣೆಕಟ್ಟನ್ನು ನಿರ್ಮಿಸಿದರು ಮತ್ತು ಪ್ರವಾಹ ಸಂರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿದರು.",
+        "ಅವರ ಅದ್ಭುತ ಕಾರ್ಯದಿಂದಾಗಿ ಅವರ ಜನ್ಮದಿನವನ್ನು ಭಾರತದಲ್ಲಿ ಇಂಜಿನಿಯರ್ಸ್ ದಿನವನ್ನಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Sir M. Visvesvaraya famously associated with?",
+          "question_kn": "Sir M. Visvesvaraya ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Chikkaballapur",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Chikkaballapur",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Sir M. Visvesvaraya most remembered for?",
+          "question_kn": "Sir M. Visvesvaraya ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "district": "Shivamogga",
+      "name_en": "Keladi Chennamma",
+      "name_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Keladi Chennamma was a highly courageous queen of the Keladi Kingdom.",
+        "She is famous for giving shelter to Rajaram Chhatrapati when the Mughal Emperor Aurangzeb was hunting him.",
+        "She fought bravely against the Mughal forces to protect her guest.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Keladi Chennamma was a highly courageous queen of the Keladi Kingdom.",
+        "She is famous for giving shelter to Rajaram Chhatrapati when the Mughal Emperor Aurangzeb was hunting him.",
+        "She fought bravely against the Mughal forces to protect her guest.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಕೆಳದಿ ಸಾಮ್ರಾಜ್ಯದ ಅತ್ಯಂತ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ.",
+        "ಮೊಘಲ್ ಚಕ್ರವರ್ತಿ ಔರಂಗಜೇಬನು ಅವನನ್ನು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾಗ ರಾಜಾರಾಮ್ ಛತ್ರಪತಿಗೆ ಆಶ್ರಯ ನೀಡಿದ್ದಕ್ಕಾಗಿ ಅವಳು ಪ್ರಸಿದ್ಧಳಾಗಿದ್ದಾಳೆ.",
+        "ತನ್ನ ಅತಿಥಿಯನ್ನು ರಕ್ಷಿಸಲು ಅವಳು ಮೊಘಲ್ ಪಡೆಗಳ ವಿರುದ್ಧ ಕೆಚ್ಚೆದೆಯಿಂದ ಹೋರಾಡಿದಳು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಕೆಳದಿ ಸಾಮ್ರಾಜ್ಯದ ಅತ್ಯಂತ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ.",
+        "ಮೊಘಲ್ ಚಕ್ರವರ್ತಿ ಔರಂಗಜೇಬನು ಅವನನ್ನು ಬೇಟೆಯಾಡುತ್ತಿದ್ದಾಗ ರಾಜಾರಾಮ್ ಛತ್ರಪತಿಗೆ ಆಶ್ರಯ ನೀಡಿದ್ದಕ್ಕಾಗಿ ಅವಳು ಪ್ರಸಿದ್ಧಳಾಗಿದ್ದಾಳೆ.",
+        "ತನ್ನ ಅತಿಥಿಯನ್ನು ರಕ್ಷಿಸಲು ಅವಳು ಮೊಘಲ್ ಪಡೆಗಳ ವಿರುದ್ಧ ಕೆಚ್ಚೆದೆಯಿಂದ ಹೋರಾಡಿದಳು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Keladi Chennamma famously associated with?",
+          "question_kn": "Keladi Chennamma ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Shivamogga",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Shivamogga",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Keladi Chennamma most remembered for?",
+          "question_kn": "Keladi Chennamma ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "district": "Mysuru",
+      "name_en": "Tipu Sultan",
+      "name_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Tipu Sultan, known as the Tiger of Mysore, was a ruler of the Kingdom of Mysore.",
+        "He pioneered the use of rocket artillery in warfare against the British.",
+        "He was a brave fighter who died defending his capital, Srirangapatna.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Tipu Sultan, known as the Tiger of Mysore, was a ruler of the Kingdom of Mysore.",
+        "He pioneered the use of rocket artillery in warfare against the British.",
+        "He was a brave fighter who died defending his capital, Srirangapatna.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರು ಸಾಮ್ರಾಜ್ಯದ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧದ ಯುದ್ಧದಲ್ಲಿ ರಾಕೆಟ್ ಫಿರಂಗಿಗಳ ಬಳಕೆಗೆ ನಾಂದಿ ಹಾಡಿದರು.",
+        "ಅವರು ತಮ್ಮ ರಾಜಧಾನಿ ಶ್ರೀರಂಗಪಟ್ಟಣವನ್ನು ರಕ್ಷಿಸುತ್ತಾ ಮಡಿದ ವೀರ ಸೇನಾನಿ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರು ಸಾಮ್ರಾಜ್ಯದ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧದ ಯುದ್ಧದಲ್ಲಿ ರಾಕೆಟ್ ಫಿರಂಗಿಗಳ ಬಳಕೆಗೆ ನಾಂದಿ ಹಾಡಿದರು.",
+        "ಅವರು ತಮ್ಮ ರಾಜಧಾನಿ ಶ್ರೀರಂಗಪಟ್ಟಣವನ್ನು ರಕ್ಷಿಸುತ್ತಾ ಮಡಿದ ವೀರ ಸೇನಾನಿ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Tipu Sultan famously associated with?",
+          "question_kn": "Tipu Sultan ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Mysuru",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Mysuru",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Tipu Sultan most remembered for?",
+          "question_kn": "Tipu Sultan ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "district": "Kodagu",
+      "name_en": "General Thimayya",
+      "name_kn": "ಜನರಲ್ ತಿಮ್ಮಯ್ಯ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "General K. S. Thimayya was an incredibly distinguished soldier from Kodagu.",
+        "He served as the Chief of Army Staff of the Indian Army.",
+        "He is the only Indian to command an Infantry Brigade in battle during the Second World War.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "General K. S. Thimayya was an incredibly distinguished soldier from Kodagu.",
+        "He served as the Chief of Army Staff of the Indian Army.",
+        "He is the only Indian to command an Infantry Brigade in battle during the Second World War.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಜನರಲ್ ಕೆ.ಎಸ್. ತಿಮ್ಮಯ್ಯ ಅವರು ಕೊಡಗಿನ ಅತ್ಯಂತ ವಿಶಿಷ್ಟ ಸೈನಿಕರಾಗಿದ್ದರು.",
+        "ಅವರು ಭಾರತೀಯ ಸೇನೆಯ ಸೇನಾ ಮುಖ್ಯಸ್ಥರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು.",
+        "ಎರಡನೇ ಮಹಾಯುದ್ಧದ ಸಮಯದಲ್ಲಿ ಯುದ್ಧದಲ್ಲಿ ಪದಾತಿದಳದ ಬ್ರಿಗೇಡ್ ಅನ್ನು ಮುನ್ನಡೆಸಿದ ಏಕೈಕ ಭಾರತೀಯ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಜನರಲ್ ಕೆ.ಎಸ್. ತಿಮ್ಮಯ್ಯ ಅವರು ಕೊಡಗಿನ ಅತ್ಯಂತ ವಿಶಿಷ್ಟ ಸೈನಿಕರಾಗಿದ್ದರು.",
+        "ಅವರು ಭಾರತೀಯ ಸೇನೆಯ ಸೇನಾ ಮುಖ್ಯಸ್ಥರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು.",
+        "ಎರಡನೇ ಮಹಾಯುದ್ಧದ ಸಮಯದಲ್ಲಿ ಯುದ್ಧದಲ್ಲಿ ಪದಾತಿದಳದ ಬ್ರಿಗೇಡ್ ಅನ್ನು ಮುನ್ನಡೆಸಿದ ಏಕೈಕ ಭಾರತೀಯ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is General Thimayya famously associated with?",
+          "question_kn": "General Thimayya ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Kodagu",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Kodagu",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is General Thimayya most remembered for?",
+          "question_kn": "General Thimayya ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "district": "Tumakuru",
+      "name_en": "Sri Shivakumara Swamiji",
+      "name_kn": "ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Sri Shivakumara Swamiji was an Indian spiritual leader and humanitarian.",
+        "He was the head of the Siddaganga Matha in Tumakuru.",
+        "He provided free education, food, and shelter to thousands of poor children.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Sri Shivakumara Swamiji was an Indian spiritual leader and humanitarian.",
+        "He was the head of the Siddaganga Matha in Tumakuru.",
+        "He provided free education, food, and shelter to thousands of poor children.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಅವರು ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ ಮತ್ತು ಮಾನವೀಯ ಕೆಲಸಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ತುಮಕೂರಿನ ಸಿದ್ದಗಂಗಾ ಮಠದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದರು.",
+        "ಅವರು ಸಾವಿರಾರು ಬಡ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಶಿಕ್ಷಣ, ಆಹಾರ ಮತ್ತು ಆಶ್ರಯವನ್ನು ನೀಡಿದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಅವರು ಭಾರತೀಯ ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ ಮತ್ತು ಮಾನವೀಯ ಕೆಲಸಗಾರರಾಗಿದ್ದರು.",
+        "ಅವರು ತುಮಕೂರಿನ ಸಿದ್ದಗಂಗಾ ಮಠದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದರು.",
+        "ಅವರು ಸಾವಿರಾರು ಬಡ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಶಿಕ್ಷಣ, ಆಹಾರ ಮತ್ತು ಆಶ್ರಯವನ್ನು ನೀಡಿದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Sri Shivakumara Swamiji famously associated with?",
+          "question_kn": "Sri Shivakumara Swamiji ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Tumakuru",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Tumakuru",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Sri Shivakumara Swamiji most remembered for?",
+          "question_kn": "Sri Shivakumara Swamiji ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "district": "Dharwad",
+      "name_en": "Da. Ra. Bendre",
+      "name_kn": "ದ. ರಾ. ಬೇಂದ್ರೆ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Dattatreya Ramachandra Bendre was a legendary Kannada poet.",
+        "He was awarded the Jnanpith Award, India's highest literary honor.",
+        "His poems vividly describe the beauty of nature and human emotions.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Dattatreya Ramachandra Bendre was a legendary Kannada poet.",
+        "He was awarded the Jnanpith Award, India's highest literary honor.",
+        "His poems vividly describe the beauty of nature and human emotions.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ದತ್ತಾತ್ರೇಯ ರಾಮಚಂದ್ರ ಬೇಂದ್ರೆಯವರು ಲೆಜೆಂಡರಿ ಕನ್ನಡ ಕವಿಯಾಗಿದ್ದರು.",
+        "ಅವರಿಗೆ ಭಾರತದ ಅತ್ಯುನ್ನತ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಯಾದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ನೀಡಲಾಯಿತು.",
+        "ಅವರ ಕವಿತೆಗಳು ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ಮತ್ತು ಮಾನವ ಭಾವನೆಗಳನ್ನು ಎದ್ದುಕಾಣುವಂತೆ ವಿವರಿಸುತ್ತವೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ದತ್ತಾತ್ರೇಯ ರಾಮಚಂದ್ರ ಬೇಂದ್ರೆಯವರು ಲೆಜೆಂಡರಿ ಕನ್ನಡ ಕವಿಯಾಗಿದ್ದರು.",
+        "ಅವರಿಗೆ ಭಾರತದ ಅತ್ಯುನ್ನತ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಯಾದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ನೀಡಲಾಯಿತು.",
+        "ಅವರ ಕವಿತೆಗಳು ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ಮತ್ತು ಮಾನವ ಭಾವನೆಗಳನ್ನು ಎದ್ದುಕಾಣುವಂತೆ ವಿವರಿಸುತ್ತವೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Da. Ra. Bendre famously associated with?",
+          "question_kn": "Da. Ra. Bendre ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Dharwad",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Dharwad",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Da. Ra. Bendre most remembered for?",
+          "question_kn": "Da. Ra. Bendre ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "district": "Udupi",
+      "name_en": "Koti and Chennayya",
+      "name_kn": "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Koti and Chennayya are legendary twin heroes from the Tulu Nadu region.",
+        "They fought for justice and the rights of the poor and oppressed.",
+        "Their brave deeds are sung in traditional epic poems called 'Paddanas'.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Koti and Chennayya are legendary twin heroes from the Tulu Nadu region.",
+        "They fought for justice and the rights of the poor and oppressed.",
+        "Their brave deeds are sung in traditional epic poems called 'Paddanas'.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ತುಳು ನಾಡು ಪ್ರದೇಶದ ಪೌರಾಣಿಕ ಅವಳಿ ವೀರರು.",
+        "ಅವರು ಬಡವರ ಮತ್ತು ಶೋಷಿತರ ಹಕ್ಕುಗಳಿಗಾಗಿ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಹೋರಾಡಿದರು.",
+        "ಅವರ ವೀರಾವೇಶದ ಕಾರ್ಯಗಳನ್ನು 'ಪಾಡ್ಡನಸ್' ಎಂಬ ಸಾಂಪ್ರದಾಯಿಕ ಮಹಾಕಾವ್ಯಗಳಲ್ಲಿ ಹಾಡಲಾಗುತ್ತದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ತುಳು ನಾಡು ಪ್ರದೇಶದ ಪೌರಾಣಿಕ ಅವಳಿ ವೀರರು.",
+        "ಅವರು ಬಡವರ ಮತ್ತು ಶೋಷಿತರ ಹಕ್ಕುಗಳಿಗಾಗಿ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಹೋರಾಡಿದರು.",
+        "ಅವರ ವೀರಾವೇಶದ ಕಾರ್ಯಗಳನ್ನು 'ಪಾಡ್ಡನಸ್' ಎಂಬ ಸಾಂಪ್ರದಾಯಿಕ ಮಹಾಕಾವ್ಯಗಳಲ್ಲಿ ಹಾಡಲಾಗುತ್ತದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Koti and Chennayya famously associated with?",
+          "question_kn": "Koti and Chennayya ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Udupi",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Udupi",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Koti and Chennayya most remembered for?",
+          "question_kn": "Koti and Chennayya ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "district": "Koppal",
+      "name_en": "Kanakadasa",
+      "name_kn": "ಕನಕದಾಸರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Kanakadasa was a great philosopher, musician, and poet born near Koppal.",
+        "He was an active member of the Haridasa movement.",
+        "His famous Carnatic music compositions are still sung today.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Kanakadasa was a great philosopher, musician, and poet born near Koppal.",
+        "He was an active member of the Haridasa movement.",
+        "His famous Carnatic music compositions are still sung today.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕನಕದಾಸರು ಕೊಪ್ಪಳದ ಬಳಿ ಜನಿಸಿದ ಶ್ರೇಷ್ಠ ತತ್ವಜ್ಞಾನಿ, ಸಂಗೀತಗಾರ ಮತ್ತು ಕವಿ.",
+        "ಅವರು ಹರಿದಾಸ ಚಳವಳಿಯ ಸಕ್ರಿಯ ಸದಸ್ಯರಾಗಿದ್ದರು.",
+        "ಅವರ ಪ್ರಸಿದ್ಧ ಕರ್ನಾಟಕ ಸಂಗೀತ ಸಂಯೋಜನೆಗಳನ್ನು ಇಂದಿಗೂ ಹಾಡಲಾಗುತ್ತದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕನಕದಾಸರು ಕೊಪ್ಪಳದ ಬಳಿ ಜನಿಸಿದ ಶ್ರೇಷ್ಠ ತತ್ವಜ್ಞಾನಿ, ಸಂಗೀತಗಾರ ಮತ್ತು ಕವಿ.",
+        "ಅವರು ಹರಿದಾಸ ಚಳವಳಿಯ ಸಕ್ರಿಯ ಸದಸ್ಯರಾಗಿದ್ದರು.",
+        "ಅವರ ಪ್ರಸಿದ್ಧ ಕರ್ನಾಟಕ ಸಂಗೀತ ಸಂಯೋಜನೆಗಳನ್ನು ಇಂದಿಗೂ ಹಾಡಲಾಗುತ್ತದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Kanakadasa famously associated with?",
+          "question_kn": "Kanakadasa ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Koppal",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Koppal",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Kanakadasa most remembered for?",
+          "question_kn": "Kanakadasa ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "district": "Bidar",
+      "name_en": "Mahmud Gawan",
+      "name_kn": "ಮಹಮೂದ್ ಗವಾನ್",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Mahmud Gawan was a powerful prime minister in the Bahmani Sultanate.",
+        "He was a great patron of learning and built a massive Madrasa (university) in Bidar.",
+        "The Madrasa's impressive ruins still stand as a monument to education.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Mahmud Gawan was a powerful prime minister in the Bahmani Sultanate.",
+        "He was a great patron of learning and built a massive Madrasa (university) in Bidar.",
+        "The Madrasa's impressive ruins still stand as a monument to education.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಮಹಮೂದ್ ಗವಾನ್ ಬಹಮನಿ ಸುಲ್ತಾನರ ಪ್ರಬಲ ಪ್ರಧಾನಿಯಾಗಿದ್ದರು.",
+        "ಅವರು ಕಲಿಕೆಯ ಮಹಾನ್ ಪೋಷಕರಾಗಿದ್ದರು ಮತ್ತು ಬೀದರ್‌ನಲ್ಲಿ ಬೃಹತ್ ಮದ್ರಸಾ (ವಿಶ್ವವಿದ್ಯಾಲಯ) ನಿರ್ಮಿಸಿದರು.",
+        "ಮದ್ರಸಾದ ಪ್ರಭಾವಶಾಲಿ ಅವಶೇಷಗಳು ಇಂದಿಗೂ ಶಿಕ್ಷಣದ ಸ್ಮಾರಕವಾಗಿ ನಿಂತಿವೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಮಹಮೂದ್ ಗವಾನ್ ಬಹಮನಿ ಸುಲ್ತಾನರ ಪ್ರಬಲ ಪ್ರಧಾನಿಯಾಗಿದ್ದರು.",
+        "ಅವರು ಕಲಿಕೆಯ ಮಹಾನ್ ಪೋಷಕರಾಗಿದ್ದರು ಮತ್ತು ಬೀದರ್‌ನಲ್ಲಿ ಬೃಹತ್ ಮದ್ರಸಾ (ವಿಶ್ವವಿದ್ಯಾಲಯ) ನಿರ್ಮಿಸಿದರು.",
+        "ಮದ್ರಸಾದ ಪ್ರಭಾವಶಾಲಿ ಅವಶೇಷಗಳು ಇಂದಿಗೂ ಶಿಕ್ಷಣದ ಸ್ಮಾರಕವಾಗಿ ನಿಂತಿವೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Mahmud Gawan famously associated with?",
+          "question_kn": "Mahmud Gawan ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Bidar",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Bidar",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Mahmud Gawan most remembered for?",
+          "question_kn": "Mahmud Gawan ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "district": "Hassan",
+      "name_en": "King Vishnuvardhana",
+      "name_kn": "ರಾಜ ವಿಷ್ಣುವರ್ಧನ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "King Vishnuvardhana was one of the greatest rulers of the Hoysala Empire.",
+        "He built the stunningly beautiful Chennakeshava Temple at Belur.",
+        "His kingdom marked a golden age of art and architecture in Karnataka.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "King Vishnuvardhana was one of the greatest rulers of the Hoysala Empire.",
+        "He built the stunningly beautiful Chennakeshava Temple at Belur.",
+        "His kingdom marked a golden age of art and architecture in Karnataka.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ರಾಜ ವಿಷ್ಣುವರ್ಧನ ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ಆಡಳಿತಗಾರರಲ್ಲಿ ಒಬ್ಬರು.",
+        "ಅವರು ಬೇಲೂರಿನಲ್ಲಿ ಅತ್ಯದ್ಭುತವಾದ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದರು.",
+        "ಅವರ ಸಾಮ್ರಾಜ್ಯವು ಕರ್ನಾಟಕದಲ್ಲಿ ಕಲೆ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ಸುವರ್ಣಯುಗವನ್ನು ಗುರುತಿಸಿತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ರಾಜ ವಿಷ್ಣುವರ್ಧನ ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ಆಡಳಿತಗಾರರಲ್ಲಿ ಒಬ್ಬರು.",
+        "ಅವರು ಬೇಲೂರಿನಲ್ಲಿ ಅತ್ಯದ್ಭುತವಾದ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದರು.",
+        "ಅವರ ಸಾಮ್ರಾಜ್ಯವು ಕರ್ನಾಟಕದಲ್ಲಿ ಕಲೆ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ಸುವರ್ಣಯುಗವನ್ನು ಗುರುತಿಸಿತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is King Vishnuvardhana famously associated with?",
+          "question_kn": "King Vishnuvardhana ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Hassan",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Hassan",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is King Vishnuvardhana most remembered for?",
+          "question_kn": "King Vishnuvardhana ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "district": "Vijayapura",
+      "name_en": "Ibrahim Adil Shah II",
+      "name_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Ibrahim Adil Shah II was the king of the Bijapur Sultanate.",
+        "He is famous for his religious tolerance and love for music and arts.",
+        "He commissioned the writing of 'Kitab-e-Navras', a book on music.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Ibrahim Adil Shah II was the king of the Bijapur Sultanate.",
+        "He is famous for his religious tolerance and love for music and arts.",
+        "He commissioned the writing of 'Kitab-e-Navras', a book on music.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II ಬಿಜಾಪುರ ಸುಲ್ತಾನರ ರಾಜ.",
+        "ಅವರು ತಮ್ಮ ಧಾರ್ಮಿಕ ಸಹಿಷ್ಣುತೆ ಮತ್ತು ಸಂಗೀತ ಮತ್ತು ಕಲೆಗಳ ಪ್ರೀತಿಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ.",
+        "ಅವರು ಸಂಗೀತದ ಪುಸ್ತಕವಾದ 'ಕಿತಾಬ್-ಎ-ನವರಸ್' ಬರೆಯಲು ನಿಯೋಜಿಸಿದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II ಬಿಜಾಪುರ ಸುಲ್ತಾನರ ರಾಜ.",
+        "ಅವರು ತಮ್ಮ ಧಾರ್ಮಿಕ ಸಹಿಷ್ಣುತೆ ಮತ್ತು ಸಂಗೀತ ಮತ್ತು ಕಲೆಗಳ ಪ್ರೀತಿಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ.",
+        "ಅವರು ಸಂಗೀತದ ಪುಸ್ತಕವಾದ 'ಕಿತಾಬ್-ಎ-ನವರಸ್' ಬರೆಯಲು ನಿಯೋಜಿಸಿದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Ibrahim Adil Shah II famously associated with?",
+          "question_kn": "Ibrahim Adil Shah II ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Vijayapura",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Vijayapura",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Ibrahim Adil Shah II most remembered for?",
+          "question_kn": "Ibrahim Adil Shah II ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "district": "Bagalkot",
+      "name_en": "Chalukya Kings",
+      "name_kn": "ಚಾಲುಕ್ಯ ರಾಜರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Bagalkot is famous for the Chalukya kings who built incredible temples at Badami and Pattadakal.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Bagalkot is famous for the Chalukya kings who built incredible temples at Badami and Pattadakal.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಬಾಗಲಕೋಟೆಯು ಬಾದಾಮಿ ಮತ್ತು ಪಟ್ಟದಕಲ್ಲಿನಲ್ಲಿ ನಂಬಲಾಗದ ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದ ಚಾಲುಕ್ಯ ರಾಜರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಬಾಗಲಕೋಟೆಯು ಬಾದಾಮಿ ಮತ್ತು ಪಟ್ಟದಕಲ್ಲಿನಲ್ಲಿ ನಂಬಲಾಗದ ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದ ಚಾಲುಕ್ಯ ರಾಜರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Chalukya Kings famously associated with?",
+          "question_kn": "Chalukya Kings ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Bagalkot",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Bagalkot",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Chalukya Kings most remembered for?",
+          "question_kn": "Chalukya Kings ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "district": "Ballari",
+      "name_en": "Kumara Rama",
+      "name_kn": "ಕುಮಾರ ರಾಮ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Kumara Rama was a fearless prince of Kampili who inspired the founders of the Vijayanagara Empire.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Kumara Rama was a fearless prince of Kampili who inspired the founders of the Vijayanagara Empire.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕುಮಾರ ರಾಮ ಕಂಪಿಲಿಯ ನಿರ್ಭೀತ ರಾಜಕುಮಾರರಾಗಿದ್ದು, ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಸಂಸ್ಥಾಪಕರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕುಮಾರ ರಾಮ ಕಂಪಿಲಿಯ ನಿರ್ಭೀತ ರಾಜಕುಮಾರರಾಗಿದ್ದು, ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಸಂಸ್ಥಾಪಕರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Kumara Rama famously associated with?",
+          "question_kn": "Kumara Rama ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Ballari",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Ballari",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Kumara Rama most remembered for?",
+          "question_kn": "Kumara Rama ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "district": "Bengaluru Rural",
+      "name_en": "Mahayogi Vemana",
+      "name_kn": "ಮಹಾಯೋಗಿ ವೇಮನ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Mahayogi Vemana was a great philosopher and poet.",
+        "His poems, known as Vemana Padyalu, are simple but carry deep meaning.",
+        "He travelled widely and taught moral values to the common people.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Mahayogi Vemana was a great philosopher and poet.",
+        "His poems, known as Vemana Padyalu, are simple but carry deep meaning.",
+        "He travelled widely and taught moral values to the common people.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಮಹಾಯೋಗಿ ವೇಮನರು ಶ್ರೇಷ್ಠ ದಾರ್ಶನಿಕ ಮತ್ತು ಕವಿಯಾಗಿದ್ದರು.",
+        "ವೇಮನ ಪದ್ಯಲು ಎಂದು ಕರೆಯಲ್ಪಡುವ ಅವರ ಕವಿತೆಗಳು ಸರಳವಾದರೂ ಆಳವಾದ ಅರ್ಥವನ್ನು ಹೊಂದಿವೆ.",
+        "ಅವರು ವ್ಯಾಪಕವಾಗಿ ಪ್ರಯಾಣಿಸಿದರು ಮತ್ತು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ನೈತಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಲಿಸಿದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಮಹಾಯೋಗಿ ವೇಮನರು ಶ್ರೇಷ್ಠ ದಾರ್ಶನಿಕ ಮತ್ತು ಕವಿಯಾಗಿದ್ದರು.",
+        "ವೇಮನ ಪದ್ಯಲು ಎಂದು ಕರೆಯಲ್ಪಡುವ ಅವರ ಕವಿತೆಗಳು ಸರಳವಾದರೂ ಆಳವಾದ ಅರ್ಥವನ್ನು ಹೊಂದಿವೆ.",
+        "ಅವರು ವ್ಯಾಪಕವಾಗಿ ಪ್ರಯಾಣಿಸಿದರು ಮತ್ತು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ನೈತಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಲಿಸಿದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Mahayogi Vemana famously associated with?",
+          "question_kn": "Mahayogi Vemana ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Bengaluru Rural",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Bengaluru Rural",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What is Mahayogi Vemana most remembered for?",
+          "question_kn": "Mahayogi Vemana ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Philosophy and Poetry",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ತತ್ವಶಾಸ್ತ್ರ ಮತ್ತು ಕಾವ್ಯ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "district": "Chamarajanagar",
+      "name_en": "Male Mahadeshwara",
+      "name_kn": "ಮಲೆ ಮಹದೇಶ್ವರ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Chamarajanagar is famous for its hills and the legendary saint Male Mahadeshwara.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Chamarajanagar is famous for its hills and the legendary saint Male Mahadeshwara.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಚಾಮರಾಜನಗರವು ತನ್ನ ಬೆಟ್ಟಗಳು ಮತ್ತು ಪೌರಾಣಿಕ ಸಂತ ಮಲೆ ಮಹದೇಶ್ವರರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಚಾಮರಾಜನಗರವು ತನ್ನ ಬೆಟ್ಟಗಳು ಮತ್ತು ಪೌರಾಣಿಕ ಸಂತ ಮಲೆ ಮಹದೇಶ್ವರರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Male Mahadeshwara famously associated with?",
+          "question_kn": "Male Mahadeshwara ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Chamarajanagar",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Chamarajanagar",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Male Mahadeshwara most remembered for?",
+          "question_kn": "Male Mahadeshwara ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "district": "Chikkamagaluru",
+      "name_en": "Rukmini Bai",
+      "name_kn": "ರುಕ್ಮಿಣಿ ಬಾಯಿ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Known for its coffee, Chikkamagaluru also has rich histories of local chieftains and nature preservers.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Known for its coffee, Chikkamagaluru also has rich histories of local chieftains and nature preservers.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕಾಫಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಚಿಕ್ಕಮಗಳೂರು ಸ್ಥಳೀಯ ನಾಯಕರು ಮತ್ತು ಪ್ರಕೃತಿ ಸಂರಕ್ಷಕರ ಶ್ರೀಮಂತ ಇತಿಹಾಸವನ್ನು ಹೊಂದಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕಾಫಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಚಿಕ್ಕಮಗಳೂರು ಸ್ಥಳೀಯ ನಾಯಕರು ಮತ್ತು ಪ್ರಕೃತಿ ಸಂರಕ್ಷಕರ ಶ್ರೀಮಂತ ಇತಿಹಾಸವನ್ನು ಹೊಂದಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Rukmini Bai famously associated with?",
+          "question_kn": "Rukmini Bai ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Chikkamagaluru",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Chikkamagaluru",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Rukmini Bai most remembered for?",
+          "question_kn": "Rukmini Bai ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "district": "Davanagere",
+      "name_en": "Brave Rulers of Davanagere",
+      "name_kn": "ದಾವಣಗೆರೆಯ ವೀರ ಆಡಳಿತಗಾರರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Davanagere was a major center for the textile industry and is known as the 'Manchester of Karnataka'.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Davanagere was a major center for the textile industry and is known as the 'Manchester of Karnataka'.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ದಾವಣಗೆರೆಯು ಜವಳಿ ಉದ್ಯಮದ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಗಿತ್ತು ಮತ್ತು ಇದನ್ನು 'ಕರ್ನಾಟಕದ ಮ್ಯಾಂಚೆಸ್ಟರ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ದಾವಣಗೆರೆಯು ಜವಳಿ ಉದ್ಯಮದ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಗಿತ್ತು ಮತ್ತು ಇದನ್ನು 'ಕರ್ನಾಟಕದ ಮ್ಯಾಂಚೆಸ್ಟರ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Brave Rulers of Davanagere famously associated with?",
+          "question_kn": "Brave Rulers of Davanagere ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Davanagere",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Davanagere",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Brave Rulers of Davanagere most remembered for?",
+          "question_kn": "Brave Rulers of Davanagere ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "district": "Gadag",
+      "name_en": "Veera Narayana",
+      "name_kn": "ವೀರ ನಾರಾಯಣ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Gadag is famous for the Veera Narayana Temple where the great poet Kumaravyasa wrote the Kannada Mahabharata.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Gadag is famous for the Veera Narayana Temple where the great poet Kumaravyasa wrote the Kannada Mahabharata.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಗದಗವು ವೀರ ನಾರಾಯಣ ದೇವಸ್ಥಾನಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ, ಅಲ್ಲಿ ಮಹಾಕವಿ ಕುಮಾರವ್ಯಾಸರು ಕನ್ನಡ ಮಹಾಭಾರತವನ್ನು ಬರೆದರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಗದಗವು ವೀರ ನಾರಾಯಣ ದೇವಸ್ಥಾನಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ, ಅಲ್ಲಿ ಮಹಾಕವಿ ಕುಮಾರವ್ಯಾಸರು ಕನ್ನಡ ಮಹಾಭಾರತವನ್ನು ಬರೆದರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Veera Narayana famously associated with?",
+          "question_kn": "Veera Narayana ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Gadag",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Gadag",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Veera Narayana most remembered for?",
+          "question_kn": "Veera Narayana ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "district": "Haveri",
+      "name_en": "Kanaka Dasa (Bada)",
+      "name_kn": "ಕನಕ ದಾಸ (ಬಾಡ)",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Haveri is known for its peacocks and is the birthplace of many great saints.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Haveri is known for its peacocks and is the birthplace of many great saints.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಹಾವೇರಿಯು ತನ್ನ ನವಿಲುಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ ಮತ್ತು ಅನೇಕ ಮಹಾನ್ ಸಂತರ ಜನ್ಮಸ್ಥಳವಾಗಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಹಾವೇರಿಯು ತನ್ನ ನವಿಲುಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ ಮತ್ತು ಅನೇಕ ಮಹಾನ್ ಸಂತರ ಜನ್ಮಸ್ಥಳವಾಗಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Kanaka Dasa (Bada) famously associated with?",
+          "question_kn": "Kanaka Dasa (Bada) ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Haveri",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Haveri",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Kanaka Dasa (Bada) most remembered for?",
+          "question_kn": "Kanaka Dasa (Bada) ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "district": "Kalaburagi",
+      "name_en": "Bahmani Sultans",
+      "name_kn": "ಬಹಮನಿ ಸುಲ್ತಾನರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Kalaburagi, or Gulbarga, was the glorious capital of the Bahmani Sultanate.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Kalaburagi, or Gulbarga, was the glorious capital of the Bahmani Sultanate.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕಲಬುರಗಿ ಅಥವಾ ಗುಲ್ಬರ್ಗವು ಬಹಮನಿ ಸುಲ್ತಾನರ ವೈಭವಯುತ ರಾಜಧಾನಿಯಾಗಿತ್ತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕಲಬುರಗಿ ಅಥವಾ ಗುಲ್ಬರ್ಗವು ಬಹಮನಿ ಸುಲ್ತಾನರ ವೈಭವಯುತ ರಾಜಧಾನಿಯಾಗಿತ್ತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Bahmani Sultans famously associated with?",
+          "question_kn": "Bahmani Sultans ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Kalaburagi",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Kalaburagi",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Bahmani Sultans most remembered for?",
+          "question_kn": "Bahmani Sultans ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "district": "Kolar",
+      "name_en": "Ganga Dynasty Rulers",
+      "name_kn": "ಗಂಗ ರಾಜವಂಶದ ಆಡಳಿತಗಾರರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Kolar was famous for its gold mines and was an early capital of the Western Ganga Dynasty.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Kolar was famous for its gold mines and was an early capital of the Western Ganga Dynasty.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಕೋಲಾರವು ತನ್ನ ಚಿನ್ನದ ಗಣಿಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು ಮತ್ತು ಪಶ್ಚಿಮ ಗಂಗಾ ರಾಜವಂಶದ ಆರಂಭಿಕ ರಾಜಧಾನಿಯಾಗಿತ್ತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಕೋಲಾರವು ತನ್ನ ಚಿನ್ನದ ಗಣಿಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು ಮತ್ತು ಪಶ್ಚಿಮ ಗಂಗಾ ರಾಜವಂಶದ ಆರಂಭಿಕ ರಾಜಧಾನಿಯಾಗಿತ್ತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Ganga Dynasty Rulers famously associated with?",
+          "question_kn": "Ganga Dynasty Rulers ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Kolar",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Kolar",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Ganga Dynasty Rulers most remembered for?",
+          "question_kn": "Ganga Dynasty Rulers ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "district": "Mandya",
+      "name_en": "Farmers of Mandya",
+      "name_kn": "ಮಂಡ್ಯದ ರೈತರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Known as the Sugar City, Mandya's real heroes are its hardworking farmers.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Known as the Sugar City, Mandya's real heroes are its hardworking farmers.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಸಕ್ಕರೆ ನಗರ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಮಂಡ್ಯದ ನಿಜವಾದ ವೀರರು ಅದರ ಶ್ರಮಜೀವಿ ರೈತರು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಸಕ್ಕರೆ ನಗರ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಮಂಡ್ಯದ ನಿಜವಾದ ವೀರರು ಅದರ ಶ್ರಮಜೀವಿ ರೈತರು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Farmers of Mandya famously associated with?",
+          "question_kn": "Farmers of Mandya ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Mandya",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Mandya",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Farmers of Mandya most remembered for?",
+          "question_kn": "Farmers of Mandya ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "district": "Raichur",
+      "name_en": "Heroes of the Doab",
+      "name_kn": "ದೋವಾಬ್ ನ ವೀರರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "The Raichur Doab was fiercely contested by multiple empires for its rich resources.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "The Raichur Doab was fiercely contested by multiple empires for its rich resources.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ರಾಯಚೂರು ದೋವಾಬ್ ಅದರ ಶ್ರೀಮಂತ ಸಂಪನ್ಮೂಲಗಳಿಗಾಗಿ ಬಹು ಸಾಮ್ರಾಜ್ಯಗಳ ನಡುವೆ ತೀವ್ರ ಸ್ಪರ್ಧೆಗೆ ಒಳಪಟ್ಟಿತ್ತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ರಾಯಚೂರು ದೋವಾಬ್ ಅದರ ಶ್ರೀಮಂತ ಸಂಪನ್ಮೂಲಗಳಿಗಾಗಿ ಬಹು ಸಾಮ್ರಾಜ್ಯಗಳ ನಡುವೆ ತೀವ್ರ ಸ್ಪರ್ಧೆಗೆ ಒಳಪಟ್ಟಿತ್ತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Heroes of the Doab famously associated with?",
+          "question_kn": "Heroes of the Doab ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Raichur",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Raichur",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Heroes of the Doab most remembered for?",
+          "question_kn": "Heroes of the Doab ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "district": "Ramanagara",
+      "name_en": "Silk Makers",
+      "name_kn": "ರೇಷ್ಮೆ ತಯಾರಕರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Ramanagara is known as Silk City, famous for its sericulture and beautiful rocky hills.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Ramanagara is known as Silk City, famous for its sericulture and beautiful rocky hills.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ರಾಮನಗರವು ರೇಷ್ಮೆ ನಗರ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ, ಇದು ತನ್ನ ರೇಷ್ಮೆ ಕೃಷಿ ಮತ್ತು ಸುಂದರವಾದ ಕಲ್ಲಿನ ಬೆಟ್ಟಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ರಾಮನಗರವು ರೇಷ್ಮೆ ನಗರ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ, ಇದು ತನ್ನ ರೇಷ್ಮೆ ಕೃಷಿ ಮತ್ತು ಸುಂದರವಾದ ಕಲ್ಲಿನ ಬೆಟ್ಟಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Silk Makers famously associated with?",
+          "question_kn": "Silk Makers ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Ramanagara",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Ramanagara",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Silk Makers most remembered for?",
+          "question_kn": "Silk Makers ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "district": "Uttara Kannada",
+      "name_en": "Kadamba Kings",
+      "name_kn": "ಕದಂಬ ರಾಜರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "This coastal district was home to the ancient Kadamba dynasty, one of Karnataka's earliest empires.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "This coastal district was home to the ancient Kadamba dynasty, one of Karnataka's earliest empires.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಈ ಕರಾವಳಿ ಜಿಲ್ಲೆಯು ಕರ್ನಾಟಕದ ಆರಂಭಿಕ ಸಾಮ್ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದಾದ ಪ್ರಾಚೀನ ಕದಂಬ ರಾಜವಂಶದ ನೆಲೆಯಾಗಿತ್ತು.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಈ ಕರಾವಳಿ ಜಿಲ್ಲೆಯು ಕರ್ನಾಟಕದ ಆರಂಭಿಕ ಸಾಮ್ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದಾದ ಪ್ರಾಚೀನ ಕದಂಬ ರಾಜವಂಶದ ನೆಲೆಯಾಗಿತ್ತು.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Kadamba Kings famously associated with?",
+          "question_kn": "Kadamba Kings ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Uttara Kannada",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Uttara Kannada",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Kadamba Kings most remembered for?",
+          "question_kn": "Kadamba Kings ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "district": "Yadgir",
+      "name_en": "Rulers of Shorapur",
+      "name_kn": "ಶೋರಾಪುರದ ಆಡಳಿತಗಾರರು",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Yadgir is known for the Shorapur kingdom and its brave fighters who resisted British rule.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Yadgir is known for the Shorapur kingdom and its brave fighters who resisted British rule.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ಯಾದಗಿರಿಯು ಶೋರಾಪುರ ಸಾಮ್ರಾಜ್ಯ ಮತ್ತು ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯನ್ನು ವಿರೋಧಿಸಿದ ಅದರ ಕೆಚ್ಚೆದೆಯ ಹೋರಾಟಗಾರರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ಯಾದಗಿರಿಯು ಶೋರಾಪುರ ಸಾಮ್ರಾಜ್ಯ ಮತ್ತು ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯನ್ನು ವಿರೋಧಿಸಿದ ಅದರ ಕೆಚ್ಚೆದೆಯ ಹೋರಾಟಗಾರರಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Rulers of Shorapur famously associated with?",
+          "question_kn": "Rulers of Shorapur ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Yadgir",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Yadgir",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Rulers of Shorapur most remembered for?",
+          "question_kn": "Rulers of Shorapur ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "district": "Vijayanagara",
+      "name_en": "Krishnadevaraya",
+      "name_kn": "ಕೃಷ್ಣದೇವರಾಯ",
+      "image_url": "hero_generic",
+      "story_en": [
+        "Vijayanagara district houses Hampi, the capital of the Vijayanagara Empire ruled by the great Krishnadevaraya.",
+        "From an early age, they showed immense promise and a keen understanding of the struggles of their people.",
+        "Throughout their life, they dedicated themselves to the betterment of their community, facing numerous challenges with unwavering resolve.",
+        "Their leadership during critical moments in history cemented their legacy as a true hero of Karnataka.",
+        "Historical texts often describe their strategic brilliance and deep empathy for the common citizens.",
+        "Even today, their life story is taught in schools to inspire the next generation to uphold the values of courage and integrity.",
+        "Countless monuments, roads, and institutions bear their name as a testament to their monumental contributions.",
+        "Vijayanagara district houses Hampi, the capital of the Vijayanagara Empire ruled by the great Krishnadevaraya.",
+        "In conclusion, their entire life story is a magnificent tapestry of bravery, sacrifice, and visionary leadership.",
+        "Legends say that their bravery was unmatched, and stories of their valor spread far and wide.",
+        "They stood as a beacon of hope for their people, inspiring generations to fight for justice and freedom.",
+        "Despite the overwhelming odds, they never backed down from a challenge, always leading from the front.",
+        "Their legacy continues to be celebrated in songs, poems, and folklore across the region.",
+        "Many historians consider their contributions to be pivotal in shaping the cultural and political landscape of the time.",
+        "To this day, they remain a symbol of resilience, courage, and unwavering dedication to their homeland."
+      ],
+      "story_kn": [
+        "ವಿಜಯನಗರ ಜಿಲ್ಲೆಯು ಮಹಾನ್ ಕೃಷ್ಣದೇವರಾಯ ಆಳಿದ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾದ ಹಂಪಿಯನ್ನು ಹೊಂದಿದೆ.",
+        "ಚಿಕ್ಕ ವಯಸ್ಸಿನಿಂದಲೂ, ಅವರು ಅಪಾರ ಭರವಸೆಯನ್ನು ಮತ್ತು ತಮ್ಮ ಜನರ ಹೋರಾಟಗಳ ಬಗ್ಗೆ ತೀಕ್ಷ್ಣವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ತೋರಿದರು.",
+        "ಅವರ ಜೀವನದುದ್ದಕ್ಕೂ, ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಏಳಿಗೆಗಾಗಿ ತಮ್ಮನ್ನು ತಾವು ಮುಡಿಪಾಗಿಟ್ಟರು, ಅಚಲ ಸಂಕಲ್ಪದಿಂದ ಹಲವಾರು ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿದರು.",
+        "ಇತಿಹಾಸದ ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಅವರ ನಾಯಕತ್ವವು ಕರ್ನಾಟಕದ ನಿಜವಾದ ವೀರರಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿತು.",
+        "ಇಂದಿಗೂ, ಧೈರ್ಯ ಮತ್ತು ಸಮಗ್ರತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮುಂದಿನ ಪೀಳಿಗೆಯನ್ನು ಪ್ರೇರೇಪಿಸಲು ಅವರ ಜೀವನ ಕಥೆಯನ್ನು ಶಾಲೆಗಳಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+        "ವಿಜಯನಗರ ಜಿಲ್ಲೆಯು ಮಹಾನ್ ಕೃಷ್ಣದೇವರಾಯ ಆಳಿದ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾದ ಹಂಪಿಯನ್ನು ಹೊಂದಿದೆ.",
+        "ಕೊನೆಯಲ್ಲಿ, ಅವರ ಸಂಪೂರ್ಣ ಜೀವನ ಕಥೆಯು ಶೌರ್ಯ, ತ್ಯಾಗ ಮತ್ತು ದೂರದೃಷ್ಟಿಯ ನಾಯಕತ್ವದ ಭವ್ಯವಾದ ವಸ್ತ್ರವಾಗಿದೆ.",
+        "ಅವರ ಶೌರ್ಯವು ಸಾಟಿಯಿಲ್ಲದ್ದು ಮತ್ತು ಅವರ ಪರಾಕ್ರಮದ ಕಥೆಗಳು ದೂರದೂರಕ್ಕೂ ಹರಡಿದ್ದವು ಎಂದು ದಂತಕಥೆಗಳು ಹೇಳುತ್ತವೆ.",
+        "ಅವರು ತಮ್ಮ ಜನರಿಗೆ ಭರವಸೆಯ ದೀಪವಾಗಿ ನಿಂತರು, ನ್ಯಾಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಲು ತಲೆಮಾರುಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು.",
+        "ಅಗಾಧವಾದ ವಿರೋಧದ ಹೊರತಾಗಿಯೂ, ಅವರು ಎಂದಿಗೂ ಸವಾಲಿನಿಂದ ಹಿಂದೆ ಸರಿಯಲಿಲ್ಲ, ಯಾವಾಗಲೂ ಮುಂಚೂಣಿಯಲ್ಲಿ ನಿಂತರು.",
+        "ಅವರ ಪರಂಪರೆಯನ್ನು ಇಂದಿಗೂ ಪ್ರಾದೇಶಿಕ ಹಾಡುಗಳು, ಕವಿತೆಗಳು ಮತ್ತು ಜಾನಪದ ಕಥೆಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+        "ಅನೇಕ ಇತಿಹಾಸಕಾರರು ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ರಾಜಕೀಯ ಭೂದೃಶ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಎಂದು ಪರಿಗಣಿಸುತ್ತಾರೆ.",
+        "ಇಂದಿಗೂ, ಅವರು ತಮ್ಮ ತಾಯ್ನಾಡಿನ ಬಗ್ಗೆ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ, ಧೈರ್ಯ ಮತ್ತು ಅಚಲವಾದ ಸಮರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+      ],
+      "quiz": [
+        {
+          "question_en": "What district is Krishnadevaraya famously associated with?",
+          "question_kn": "Krishnadevaraya ಅವರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+          "options_en": [
+            "Vijayanagara",
+            "Bengaluru",
+            "Mysuru",
+            "Hubballi"
+          ],
+          "options_kn": [
+            "Vijayanagara",
+            "ಬೆಂಗಳೂರು",
+            "ಮೈಸೂರು",
+            "ಹುಬ್ಬಳ್ಳಿ"
+          ],
+          "correct_index": 0
+        },
+        {
+          "question_en": "What quality is Krishnadevaraya most remembered for?",
+          "question_kn": "Krishnadevaraya ಅವರು ಯಾವ ಗುಣಕ್ಕೆ ಹೆಚ್ಚು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+          "options_en": [
+            "Cowardice",
+            "Bravery and Leadership",
+            "Trading",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಹೇಡಿತನ",
+            "ಶೌರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+            "ವ್ಯಾಪಾರ",
+            "ಕೃಷಿ"
+          ],
+          "correct_index": 1
+        }
+      ]
+    }
+  ]
+}

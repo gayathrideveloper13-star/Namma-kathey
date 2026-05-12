@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f4f8;
+            font-family: Arial, sans-serif;
+        }
+        .map-container {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            aspect-ratio: 3/4;
+            background-color: #e2e8f0;
+            border-radius: 20px;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .map-header {
+            text-align: center;
+            padding: 16px;
+            background-color: #3b82f6;
+            color: white;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        .districts-grid {
+            flex: 1;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            padding: 16px;
+            overflow-y: auto;
+        }
+        .district {
+            background-color: #ffffff;
+            border: 2px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 20px 10px;
+            text-align: center;
+            font-weight: bold;
+            color: #334155;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        .district:active {
+            transform: scale(0.95);
+            background-color: #bfdbfe;
+            border-color: #3b82f6;
+        }
+        .district.highlight {
+            border-color: #3b82f6;
+            color: #1d4ed8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="map-container">
+    <div class="map-header">Karnataka Districts</div>
+    <div class="districts-grid">
+        <div class="district highlight" onclick="onDistrictClick('Belagavi')">Belagavi</div>
+        <div class="district" onclick="onDistrictClick('Bagalkote')">Bagalkote</div>
+        <div class="district" onclick="onDistrictClick('Vijayapura')">Vijayapura</div>
+        <div class="district" onclick="onDistrictClick('Kalaburagi')">Kalaburagi</div>
+        <div class="district highlight" onclick="onDistrictClick('Chitradurga')">Chitradurga</div>
+        <div class="district" onclick="onDistrictClick('Davanagere')">Davanagere</div>
+        <div class="district" onclick="onDistrictClick('Shivamogga')">Shivamogga</div>
+        <div class="district" onclick="onDistrictClick('Udupi')">Udupi</div>
+        <div class="district" onclick="onDistrictClick('Mysuru')">Mysuru</div>
+        <div class="district" onclick="onDistrictClick('Mandya')">Mandya</div>
+        <div class="district highlight" onclick="onDistrictClick('Bengaluru')">Bengaluru</div>
+        <div class="district" onclick="onDistrictClick('Kolar')">Kolar</div>
+    </div>
+</div>
+
+<script>
+    function onDistrictClick(districtName) {
+        if (window.Android) {
+            window.Android.onDistrictSelected(districtName);
+        } else {
+            console.log("Clicked: " + districtName);
+        }
+    }
+</script>
+
+</body>
+</html>

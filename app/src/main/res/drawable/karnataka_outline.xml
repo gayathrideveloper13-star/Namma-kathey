@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="500dp"
+    android:viewportWidth="400"
+    android:viewportHeight="500">
+    <!-- A stylized organic shape representing Karnataka outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#000000"
+        android:strokeWidth="4"
+        android:pathData="M 190,40 C 140,50 90,100 70,160 C 50,210 30,240 40,290 C 50,340 70,390 110,430 C 140,460 170,480 200,480 C 240,480 280,440 310,390 C 340,340 330,270 290,220 C 270,190 260,170 250,140 C 240,90 220,50 190,40 Z" />
+</vector>
